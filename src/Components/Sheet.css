@@ -1,0 +1,20 @@
+table div {
+    border: 1px solid black;
+    padding: 10px
+}
+
+div tr:nth-child(1) {
+    border-bottom: 2px solid black;
+}
+
+tr {
+    display: grid;
+    grid-template-columns: 5fr 1fr;
+
+
+}
+
+td {
+    border: 1px solid rgb(131, 131, 131);
+    padding: 3px;
+}
