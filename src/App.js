@@ -1,5 +1,5 @@
 import Navbar from "./Components/Navbar";
-import "flowbite"
+import "flowbite/dist/flowbite.min.js"
 
 function App() {
   return (
